@@ -1,0 +1,7 @@
+{
+    "require": {
+        "slim/slim": "^3.11",
+        "simon_massey/thinbus-php-srp": "^1.8",
+        "slim/twig-view": "^2.4"
+    }
+}
